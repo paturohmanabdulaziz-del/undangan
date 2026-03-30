@@ -290,8 +290,8 @@ section { padding: 6rem 1.5rem; }
   background-size: cover; background-position: center;
   box-shadow: var(--shadow-md);
 }
-.groom-photo { background-image: url('images/groom.jpg'), url('https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80'); }
-.bride-photo  { background-image: url('images/bride.jpg'), url('https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80'); }
+.groom-photo { background-image: url('images/groom.jpg'), url(''); }
+.bride-photo  { background-image: url('images/bride.jpg'), url(''); }
 
 /* Corner decorations */
 .couple-frame-corner {
